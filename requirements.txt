@@ -1,0 +1,2 @@
+python-telegram-bot==20.0
+valve==1.0.6
